@@ -1,1 +1,0 @@
-Hi This is git file need to be used for pull command
